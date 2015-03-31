@@ -14,7 +14,7 @@
         </value>
         <next>
           <block type="oled_drawtext" id="87">
-            <field name="TEXT">watch your back - a</field>
+            <field name="TEXT">watch your back , be careful who you befriend - a</field>
           </block>
         </next>
       </block>
